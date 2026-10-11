@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets (NCBI API key etc.)
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
